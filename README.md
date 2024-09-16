@@ -36,8 +36,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-
-
+![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=Php)&nbsp;
+![java](https://img.shields.io/badge/-java%20-05122A?style=flat&logo=java)&nbsp;
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAbdAlRhman&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
